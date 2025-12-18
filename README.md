@@ -1,4 +1,3 @@
-![secondo_prototipo](https://github.com/user-attachments/assets/2f7bfda0-b3da-4053-9a1b-0e44f005c616)![schizzo_secondo_prototipo](https://github.com/user-attachments/assets/a8f0ef85-5707-4f1a-800d-bfd04cea7a80)# paper-towel-roller-redesign
 ### 1-Descrizione del problema:  
 All’interno del distributore della carta per asciugare le mani, c’è un cilindro di materiale plastico.   
 Ho quattro distributori di carta, con all’interno un rullo. In ciascuno dei quattro distributori, i quattro rulli si sono rotti tutti nello stesso punto. Il che non è una coincidenza.  
