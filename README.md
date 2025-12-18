@@ -1,4 +1,4 @@
-# paper-towel-roller-redesign
+![secondo_prototipo](https://github.com/user-attachments/assets/2f7bfda0-b3da-4053-9a1b-0e44f005c616)![schizzo_secondo_prototipo](https://github.com/user-attachments/assets/a8f0ef85-5707-4f1a-800d-bfd04cea7a80)# paper-towel-roller-redesign
 ### 1-Descrizione del problema:  
 All’interno del distributore della carta per asciugare le mani, c’è un cilindro di materiale plastico.   
 Ho quattro distributori di carta, con all’interno un rullo. In ciascuno dei quattro distributori, i quattro rulli si sono rotti tutti nello stesso punto. Il che non è una coincidenza.  
@@ -18,7 +18,8 @@ La spina è stata fatta anch’essa di 5mm, per avere un’accoppiamento con leg
 ![schizzo_primo_prototipo](https://github.com/user-attachments/assets/a1d11178-77e4-4a18-b131-bc5cad75c832)
 ###   
 ### 5-Stampa del primo prototipo:  
- ![Uploading primo_prototipo.jpg…]()
+![primo_prototipo](https://github.com/user-attachments/assets/3f188d8b-1e31-4813-9bde-194af77e2061)
+
 ###   
 ### 6-Problemi con il primo prototipo:  
 L’accoppiamento si è rivelato essere poco solido. Se flesso con una certa forza e insistenza la spina all’interno del cilindro si rompe abbastanza facilmente.   
@@ -29,6 +30,11 @@ Per garantire un accoppiamento più solido basta aumentare al dimensione della s
 2.2mm.   
 ###   
 ### 8-Disegno del secondo prototipo:  
- ###   
+![schizzo_secondo_prototipo](https://github.com/user-attachments/assets/c4e4bdfe-d498-416a-bed5-85447393f43e)
+
+###   
 ### 9-Stampa del secondo prototipo:  
-![Uploading secondo_prototipo.jpg…]()
+![secondo_prototipo](https://github.com/user-attachments/assets/6b94aea3-7c92-4aaf-8439-213b2cdeabc9)
+
+
+
