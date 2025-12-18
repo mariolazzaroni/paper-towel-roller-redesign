@@ -1,6 +1,4 @@
 # paper-towel-roller-redesign
-Redesign of a plastic paper towel dispenser roller, based on real failure analysis and 3D printing costraint.
-
 ### 1-Descrizione del problema:  
 All’interno del distributore della carta per asciugare le mani, c’è un cilindro di materiale plastico.   
 Ho quattro distributori di carta, con all’interno un rullo. In ciascuno dei quattro distributori, i quattro rulli si sono rotti tutti nello stesso punto. Il che non è una coincidenza.  
