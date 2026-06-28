@@ -1,6 +1,6 @@
 ### 1-Descrizione del problema:  
 All’interno del distributore della carta per asciugare le mani, c’è un cilindro di materiale plastico.   
-Ho quattro distributori di carta, con all’interno un rullo. In ciascuno dei quattro distributori, i quattro rulli si sono rotti tutti nello stesso punto. Il che non è una coincidenza.  
+Ho quattro distributori di carta, con all’interno un cilindro. In ciascuno dei quattro distributori, i quattro cilindri si sono rotti tutti nello stesso punto. Il che non è una coincidenza.  
 Essendo il rotolo di carta lungo quanto il cilindro, il carico distribuito può essere pensato come una forza concentrata al centro del cilindro di plastica.   
 A questo punto, chiaramente, questo cilindro può essere schematizzato come una trave incastrata in entrambi gli estremi; quindi il momento flettente è massimo alle estremità, da qui la rottura della parte.    
 ###   
